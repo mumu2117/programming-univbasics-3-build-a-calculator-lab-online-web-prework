@@ -19,5 +19,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return num1^num2
+  return puts "Sqrt root value of a : #{CMath.sqrt(a)}\n\n"  
+puts "Sqrt root value of b : #{CMath.sqrt(b)}\n\n"
 end
